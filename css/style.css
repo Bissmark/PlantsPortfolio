@@ -1,0 +1,67 @@
+body {
+    height: 90vh;
+}
+
+.container {
+    
+}
+
+.plant-box {
+    width: 150px;
+    height: 50px;
+    background-color: burlywood;
+    padding: 50px;
+    margin: 0 auto;
+    border: 0.5vmin solid brown;
+}
+
+.tree {
+    width: 10px;
+    height: 100px;
+    background-color: green;
+    border: 0.5vmin solid darkgreen;
+    margin: 0 auto;
+}
+
+.tree2 {
+    width: 10px;
+    height: 100px;
+    background-color: green;
+    border: 0.5vmin solid darkgreen;
+    margin: 0 auto;
+    rotate: 45deg;
+}
+
+.tree3 {
+    width: 10px;
+    height: 100px;
+    background-color: green;
+    border: 0.5vmin solid darkgreen;
+    margin: 0 auto;
+}
+
+.tree4 {
+    width: 10px;
+    height: 100px;
+    background-color: green;
+    border: 0.5vmin solid darkgreen;
+    margin: 0 auto;
+}
+
+.tree5 {
+    width: 10px;
+    height: 100px;
+    background-color: green;
+    border: 0.5vmin solid darkgreen;
+    margin: 0 auto;
+    rotate: -45deg;
+    z-index: -1;
+}
+
+.leaf-1 {
+	width: 50px;
+	height: 50px;
+	border-radius: 0 70px;
+	background-color: #1f801f;
+	transform: rotate(0deg);
+}
